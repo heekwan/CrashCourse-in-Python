@@ -64,3 +64,4 @@ print(se1.entry_salary(24))
 print(SoftwareEngineer.entry_salary(27))
 
 print('The end')
+print('I am Martin')
