@@ -65,3 +65,5 @@ print(SoftwareEngineer.entry_salary(27))
 
 print('The end')
 print('I am Martin')
+
+print("Good bye!")
